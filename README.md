@@ -4,7 +4,7 @@ This repository contains my daily DSA problem solving practice using Java.
 
 ## Highlights
 - Topic-wise folder structure
-- LeetCode compatible solutions
+- LeetCode problems
 - Clean and optimized code
 - Short explanations for each problem
 
