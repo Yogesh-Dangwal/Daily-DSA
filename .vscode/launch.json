@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddTwoNumbersI",
+            "request": "launch",
+            "mainClass": "LinkedList.AddTwoNumbers.AddTwoNumbersI",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoNumbersII",
+            "request": "launch",
+            "mainClass": "LinkedList.AddTwoNumbers.AddTwoNumbersII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "PlusOne",
             "request": "launch",
             "mainClass": "Array.PlusOneProblem.PlusOne",
