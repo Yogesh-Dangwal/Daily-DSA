@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NRepeatedElementinSize2NArray",
+            "request": "launch",
+            "mainClass": "Array.NRepeatedElementInSize2NArray.NRepeatedElementinSize2NArray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToSellAndBuyStock",
+            "request": "launch",
+            "mainClass": "Array.BestTimeToSellAndBuyStock.BestTimeToSellAndBuyStock",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -9,4 +9,4 @@ This repository contains my daily DSA problem solving practice using Java.
 - Short explanations for each problem
 
 ## Language
-- Java.
+- Java
