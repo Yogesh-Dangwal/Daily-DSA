@@ -1,5 +1,6 @@
 package Array.PlusOneProblem;
 public class PlusOne {
+
     public int[] plusOne(int[] digits) {
         int n = digits.length;
 
@@ -14,5 +15,14 @@ public class PlusOne {
         int[] res = new int[n + 1];
         res[0] = 1;
         return res;
+    }
+    public static void main(String[] args) {
+        PlusOne obj = new PlusOne();
+        int[] digits = {9, 9, 9};
+        int[] result = obj.plusOne(digits);
+
+        for (int d : result) {
+            System.out.print(d + " ");
+        }
     }
 }

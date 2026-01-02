@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlusOne",
+            "request": "launch",
+            "mainClass": "Array.PlusOneProblem.PlusOne",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "NRepeatedElementinSize2NArray",
             "request": "launch",
             "mainClass": "Array.NRepeatedElementInSize2NArray.NRepeatedElementinSize2NArray",
