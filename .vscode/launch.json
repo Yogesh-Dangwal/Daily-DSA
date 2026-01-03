@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumPathSum",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.MinimumPathSumProblem.MinimumPathSum",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "NumberOfWaysToPaint",
             "request": "launch",
             "mainClass": "DynamicProgramming.NumberofWaysToPaintGrid.NumberOfWaysToPaint",
