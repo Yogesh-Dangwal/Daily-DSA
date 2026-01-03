@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfWaysToPaint",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.NumberofWaysToPaintGrid.NumberOfWaysToPaint",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "AddTwoNumbersI",
             "request": "launch",
             "mainClass": "LinkedList.AddTwoNumbers.AddTwoNumbersI",
