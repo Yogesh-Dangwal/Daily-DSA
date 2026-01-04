@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FourSum",
+            "request": "launch",
+            "mainClass": "Sorting.FourSum.FourSum",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FourDivisor",
             "request": "launch",
             "mainClass": "Array.FourDivisor.FourDivisor",
