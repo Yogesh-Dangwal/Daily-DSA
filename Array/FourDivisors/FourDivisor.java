@@ -1,4 +1,4 @@
-package Array.FourDivisor;
+package Array.FourDivisors;
 public class FourDivisor {
 
     public static int sumFourDivisors(int[] nums) {
