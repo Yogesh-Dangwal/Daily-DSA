@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertionSortList",
+            "request": "launch",
+            "mainClass": "Sorting.InsertionSortList.InsertionSortList",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FourSum",
             "request": "launch",
             "mainClass": "Sorting.FourSum.FourSum",
