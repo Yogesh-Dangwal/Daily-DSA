@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FourDivisor",
+            "request": "launch",
+            "mainClass": "Array.FourDivisor.FourDivisor",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumPathSum",
             "request": "launch",
             "mainClass": "DynamicProgramming.MinimumPathSumProblem.MinimumPathSum",
