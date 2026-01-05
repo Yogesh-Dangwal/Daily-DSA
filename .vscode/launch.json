@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumMatrixSum",
+            "request": "launch",
+            "mainClass": "MaximumMatrixSum",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "LargestNumber",
+            "request": "launch",
+            "mainClass": "LargestNumber",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "InsertionSortList",
             "request": "launch",
             "mainClass": "Sorting.InsertionSortList.InsertionSortList",
