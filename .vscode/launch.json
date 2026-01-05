@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTreePreorderTraversal",
+            "request": "launch",
+            "mainClass": "Stack.BinaryTreePreorderTraversal.BinaryTreePreorderTraversal",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTreeInorderTraversal",
+            "request": "launch",
+            "mainClass": "Stack.BinaryTreeInorderTraversal.BinaryTreeInorderTraversal",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SortList",
             "request": "launch",
             "mainClass": "Sorting.SortList.SortList",
