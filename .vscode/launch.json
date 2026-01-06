@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTreeLevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "Tree.BinaryTreeLevelOrderTraversal.BinaryTreeLevelOrderTraversal",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximumLevelSumBinaryTree",
             "request": "launch",
             "mainClass": "Tree.MaximumLevelSumBinaryTree.MaximumLevelSumBinaryTree",
