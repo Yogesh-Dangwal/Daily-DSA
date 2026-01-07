@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumProductOfSplittedBinaryTree",
+            "request": "launch",
+            "mainClass": "Tree.MaximumProductOfSplittedBinaryTree.MaximumProductOfSplittedBinaryTree",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BinaryTreeLevelOrderTraversal",
             "request": "launch",
             "mainClass": "Tree.BinaryTreeLevelOrderTraversal.BinaryTreeLevelOrderTraversal",
