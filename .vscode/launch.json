@@ -8,6 +8,13 @@
             "type": "java",
             "name": "MaxDotProductOfTwoSubsequences",
             "request": "launch",
+            "mainClass": "Array.MaxDotProductOfTwoSubsequences.MaxDotProductOfTwoSubsequences",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "MaxDotProductOfTwoSubsequences",
+            "request": "launch",
             "mainClass": "MaxDotProductOfTwoSubsequences",
             "projectName": "Daily-DSA_59d2444f"
         },

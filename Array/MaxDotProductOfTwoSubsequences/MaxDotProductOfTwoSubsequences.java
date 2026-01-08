@@ -1,3 +1,4 @@
+package Array.MaxDotProductOfTwoSubsequences;
 public class MaxDotProductOfTwoSubsequences {
 
     public static int maxDotProduct(int[] nums1, int[] nums2) {
@@ -19,7 +20,9 @@ public class MaxDotProductOfTwoSubsequences {
                 dp[i][j] = Math.max(
                         product,
                         Math.max(
-                                dp[i - 1][j - 1] + product,
+                                dp[i - 1][j - 1] == Integer.MIN_VALUE
+                                        ? product
+                                        : dp[i - 1][j - 1] + product,
                                 Math.max(dp[i - 1][j], dp[i][j - 1])
                         )
                 );
@@ -30,7 +33,6 @@ public class MaxDotProductOfTwoSubsequences {
     }
 
     public static void main(String[] args) {
-
         int[] nums1 = {2, 1, -2, 5};
         int[] nums2 = {3, 0, -6};
 

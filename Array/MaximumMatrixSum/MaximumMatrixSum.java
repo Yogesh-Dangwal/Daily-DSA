@@ -1,4 +1,4 @@
-public class MaxMatrixSum {
+public class MaximumMatrixSum {
 
     public static long maxMatrixSum(int[][] matrix) {
         long sum = 0;
