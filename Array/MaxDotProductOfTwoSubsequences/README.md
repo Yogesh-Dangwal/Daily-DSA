@@ -20,3 +20,13 @@ A subsequence keeps the relative order of elements.
 
 ---
 
+## Time Complexity
+- **O(n × m)**
+
+## Space Complexity
+- **O(n × m)**
+
+---
+
+## Language
+- Java
