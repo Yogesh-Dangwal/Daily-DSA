@@ -14,3 +14,14 @@ If there is no common prefix, return an empty string.
 
 ---
 
+## Time Complexity
+- **O(n × m)**  
+  where `n` is the number of strings and `m` is the length of the prefix.
+
+## Space Complexity
+- **O(1)**
+
+---
+
+## Language
+- Java
