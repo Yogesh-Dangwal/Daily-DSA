@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "Array.LongestCommonPrefix.LongestCommonPrefix",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SmallestSubtreeWithAllDeepestNodes",
             "request": "launch",
             "mainClass": "Tree.SmallestSubtreeWithAllDeepestNodes.SmallestSubtreeWithAllDeepestNodes",
