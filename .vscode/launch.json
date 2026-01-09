@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SmallestSubtreeWithAllDeepestNodes",
+            "request": "launch",
+            "mainClass": "Tree.SmallestSubtreeWithAllDeepestNodes.SmallestSubtreeWithAllDeepestNodes",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaxDotProductOfTwoSubsequences",
             "request": "launch",
             "mainClass": "Array.MaxDotProductOfTwoSubsequences.MaxDotProductOfTwoSubsequences",
