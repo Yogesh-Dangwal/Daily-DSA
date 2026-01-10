@@ -1,3 +1,4 @@
+package DynamicProgramming.MinimumASCIIDeleteSum;
 public class MinimumASCIIDeleteSum {
 
     public static int minimumDeleteSum(String s1, String s2) {
