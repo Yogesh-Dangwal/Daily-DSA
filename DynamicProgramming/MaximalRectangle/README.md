@@ -13,3 +13,14 @@ containing only `1`s and return its area.
 - Use a stack-based algorithm to compute the largest rectangle in histogram efficiently.
 
 ---
+
+## Time Complexity
+- **O(rows × cols)**
+
+## Space Complexity
+- **O(cols)**
+
+---
+
+## Language
+- Java
