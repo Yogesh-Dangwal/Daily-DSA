@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConvertSortedArrayToBST",
+            "request": "launch",
+            "mainClass": "Array.ConvertSortedArrayToBST.ConvertSortedArrayToBST",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LongestCommonPrefix",
             "request": "launch",
             "mainClass": "Array.LongestCommonPrefix.LongestCommonPrefix",
