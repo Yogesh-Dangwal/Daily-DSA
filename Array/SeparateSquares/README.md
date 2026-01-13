@@ -20,3 +20,15 @@ Overlapping areas are counted multiple times.
 - Run binary search for enough iterations to ensure precision.
 
 ---
+
+## Time Complexity
+- **O(n × log C)**  
+  where `n` is number of squares and `C` is coordinate range.
+
+## Space Complexity
+- **O(1)**
+
+---
+
+## Language
+- Java
