@@ -22,8 +22,7 @@ Overlapping areas are counted multiple times.
 ---
 
 ## Time Complexity
-- **O(n × log C)**  
-  where `n` is number of squares and `C` is coordinate range.
+- **O(n × log C)**  where `n` is number of squares and `C` is coordinate range.
 
 ## Space Complexity
 - **O(1)**
