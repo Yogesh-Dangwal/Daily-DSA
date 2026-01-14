@@ -19,5 +19,14 @@ Overlapping regions are counted only once.
 
 ---
 
-## Example
-Input:
+## Time Complexity
+- **O(n log n log C)**  
+  (`n` = number of squares, `C` = coordinate range)
+
+## Space Complexity
+- **O(n)**
+
+---
+
+## Language
+- Java
