@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SeparateSquaresII",
+            "request": "launch",
+            "mainClass": "Array.SeparateSquaresII.SeparateSquaresII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ConvertSortedArrayToBST",
             "request": "launch",
             "mainClass": "Array.ConvertSortedArrayToBST.ConvertSortedArrayToBST",
