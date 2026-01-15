@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximizeAreaOfSquareHoleInGrid",
+            "request": "launch",
+            "mainClass": "MaximizeAreaOfSquareHoleInGrid",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SeparateSquaresII",
             "request": "launch",
             "mainClass": "Array.SeparateSquaresII.SeparateSquaresII",
