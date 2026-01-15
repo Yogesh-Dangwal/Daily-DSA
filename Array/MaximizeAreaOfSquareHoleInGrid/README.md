@@ -19,3 +19,13 @@ after removing some allowed bars.
 
 ---
 
+## Time Complexity
+- **O(k log k)** where `k` is the number of removable bars.
+
+## Space Complexity
+- **O(1)**
+
+---
+
+## Language
+- Java
