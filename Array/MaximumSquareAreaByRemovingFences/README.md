@@ -18,3 +18,14 @@ If it is not possible, return -1.
 - Return the square of that distance modulo `10^9 + 7`.
 
 ---
+
+## Time Complexity
+- **O(h² + v²)**
+
+## Space Complexity
+- **O(h² + v²)**
+
+---
+
+## Language
+- Java
