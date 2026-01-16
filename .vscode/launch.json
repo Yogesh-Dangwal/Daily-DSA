@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumSquareAreaByRemovingFences",
+            "request": "launch",
+            "mainClass": "Array.MaximumSquareAreaByRemovingFences.MaximumSquareAreaByRemovingFences",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximizeAreaOfSquareHoleInGrid",
             "request": "launch",
             "mainClass": "MaximizeAreaOfSquareHoleInGrid",
