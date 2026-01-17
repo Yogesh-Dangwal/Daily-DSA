@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestSquareInsideTwoRectangles",
+            "request": "launch",
+            "mainClass": "LargestSquareInsideTwoRectangles",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximumSquareAreaByRemovingFences",
             "request": "launch",
             "mainClass": "Array.MaximumSquareAreaByRemovingFences.MaximumSquareAreaByRemovingFences",
