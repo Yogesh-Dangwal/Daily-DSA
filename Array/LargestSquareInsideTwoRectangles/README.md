@@ -1,23 +1,27 @@
 # Find the Largest Area of Square Inside Two Rectangles
 
 ## Problem
-You are given multiple rectangles on a 2D plane.
-Each rectangle is defined by its bottom-left and top-right coordinates.
+Given multiple rectangles on a 2D plane, find the maximum area of a square
+that can fit inside the intersection of at least two rectangles.
 
-Find the maximum area of a square that can fit inside the intersection
-of at least two rectangles.
-If no such square exists, return 0.
+Return `0` if no such square exists.
+
+---
+
+## Important Note
+Coordinates can be as large as `10^7`, so the square area can exceed
+`Integer.MAX_VALUE`.
+
+**The result must be stored and returned as `long`.**
 
 ---
 
 ## Approach
-- Check every pair of rectangles.
-- Compute their intersection region.
-- If the intersection exists:
-  - Width = min(right edges) - max(left edges)
-  - Height = min(top edges) - max(bottom edges)
-- The largest square that can fit has side = min(width, height).
-- Track the maximum side length across all pairs.
+- Compare every pair of rectangles.
+- Compute intersection width and height.
+- If intersection exists:
+  - Square side = min(width, height)
+- Track the maximum side length.
 - Return side × side.
 
 ---
