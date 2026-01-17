@@ -1,4 +1,4 @@
-package LinkedList.AddTwoNumbers.LinkedListInBinaryTree;
+package LinkedList.LinkedListInBinaryTree;
 public class LinkedListInBinaryTree {
 
     static class ListNode {
@@ -36,9 +36,11 @@ public class LinkedListInBinaryTree {
     }
 
     public static void main(String[] args) {
+
         ListNode head = new ListNode(4);
         head.next = new ListNode(2);
         head.next.next = new ListNode(8);
+
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(4);
         root.right = new TreeNode(4);
