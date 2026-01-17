@@ -1,8 +1,8 @@
 public class LargestSquareInsideTwoRectangles {
 
-    public static int largestSquareArea(int[][] bottomLeft, int[][] topRight) {
+    public static long largestSquareArea(int[][] bottomLeft, int[][] topRight) {
         int n = bottomLeft.length;
-        int maxSide = 0;
+        long maxSide = 0;
 
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
@@ -16,7 +16,7 @@ public class LargestSquareInsideTwoRectangles {
                 int height = top - bottom;
 
                 if (width > 0 && height > 0) {
-                    int side = Math.min(width, height);
+                    long side = Math.min(width, height);
                     maxSide = Math.max(maxSide, side);
                 }
             }
