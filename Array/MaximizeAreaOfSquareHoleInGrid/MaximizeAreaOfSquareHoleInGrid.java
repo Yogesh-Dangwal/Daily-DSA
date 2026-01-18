@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class MaximizeAreaOfSquareHoleInGrid {
 
     public static int maximizeSquareHoleArea(int n, int m, int[] hBars, int[] vBars) {
