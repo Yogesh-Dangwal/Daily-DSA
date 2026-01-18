@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestMagicSquareBasic",
+            "request": "launch",
+            "mainClass": "Array.LargestMagicSquareBasic.LargestMagicSquareBasic",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfTwoArraysII",
+            "request": "launch",
+            "mainClass": "Sorting.IntersectionOfTwoArraysII.IntersectionOfTwoArraysII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "MissingNumber",
+            "request": "launch",
+            "mainClass": "Sorting.MissingNumber.MissingNumber",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LinkedListInBinaryTree",
             "request": "launch",
             "mainClass": "LinkedList.LinkedListInBinaryTree.LinkedListInBinaryTree",
