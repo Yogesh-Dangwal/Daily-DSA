@@ -14,3 +14,14 @@ The order of the result does not matter.
 - Convert the result set into an array.
 
 ---
+
+## Time Complexity
+- **O(n + m)**
+
+## Space Complexity
+- **O(n)**
+
+---
+
+## Language
+- Java
