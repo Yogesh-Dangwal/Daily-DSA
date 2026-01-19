@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumSideLengthSquare",
+            "request": "launch",
+            "mainClass": "Array.MaximumSideLengthSquare.MaximumSideLengthSquare",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LargestMagicSquareBasic",
             "request": "launch",
             "mainClass": "Array.LargestMagicSquareBasic.LargestMagicSquareBasic",
