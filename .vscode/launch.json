@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IntersectionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "Sorting.IntersectionOfTwoArrays.IntersectionOfTwoArrays",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximumSideLengthSquare",
             "request": "launch",
             "mainClass": "Array.MaximumSideLengthSquare.MaximumSideLengthSquare",
