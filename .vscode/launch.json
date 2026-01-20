@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructMinimumBitwiseArray",
+            "request": "launch",
+            "mainClass": "Array.ConstructMinimumBitwiseArray.ConstructMinimumBitwiseArray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "IntersectionOfTwoArrays",
             "request": "launch",
             "mainClass": "Sorting.IntersectionOfTwoArrays.IntersectionOfTwoArrays",
