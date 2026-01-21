@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructMinimumBitwiseArrayII",
+            "request": "launch",
+            "mainClass": "Array.ConstructMinimumBitwiseArrayII.ConstructMinimumBitwiseArrayII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ConstructMinimumBitwiseArray",
             "request": "launch",
             "mainClass": "Array.ConstructMinimumBitwiseArray.ConstructMinimumBitwiseArray",
