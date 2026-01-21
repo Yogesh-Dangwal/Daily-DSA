@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListCycle",
+            "request": "launch",
+            "mainClass": "LinkedList.LinkedListCycle.LinkedListCycle",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ConstructMinimumBitwiseArrayII",
             "request": "launch",
             "mainClass": "Array.ConstructMinimumBitwiseArrayII.ConstructMinimumBitwiseArrayII",
