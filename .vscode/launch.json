@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestSquareInsideTwoRectangles",
+            "request": "launch",
+            "mainClass": "Array.LargestSquareinsideTwoRectangles.LargestSquareInsideTwoRectangles",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumPairRemovalToSortArrayI",
             "request": "launch",
             "mainClass": "Array.MinimumPairRemovalToSortArrayI.MinimumPairRemovalToSortArrayI",

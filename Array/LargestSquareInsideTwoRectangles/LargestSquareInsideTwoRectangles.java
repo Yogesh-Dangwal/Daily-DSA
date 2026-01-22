@@ -1,3 +1,4 @@
+package Array.LargestSquareinsideTwoRectangles;
 public class LargestSquareInsideTwoRectangles {
 
     public static long largestSquareArea(int[][] bottomLeft, int[][] topRight) {
