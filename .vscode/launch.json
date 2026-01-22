@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumPairRemovalToSortArrayI",
+            "request": "launch",
+            "mainClass": "Array.MinimumPairRemovalToSortArrayI.MinimumPairRemovalToSortArrayI",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LinkedListCycleII",
             "request": "launch",
             "mainClass": "LinkedList.LinkedListCycleII.LinkedListCycleII",
