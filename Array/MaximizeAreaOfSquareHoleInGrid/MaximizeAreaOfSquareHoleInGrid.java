@@ -1,3 +1,4 @@
+package Array.MaximizeAreaofSquareHoleInGrid;
 import java.util.*;
 public class MaximizeAreaOfSquareHoleInGrid {
 
@@ -31,6 +32,6 @@ public class MaximizeAreaOfSquareHoleInGrid {
         int[] hBars = {2, 3};
         int[] vBars = {2};
 
-        System.out.println(maximizeSquareHoleArea(n, m, hBars, vBars)); // 4
+        System.out.println(maximizeSquareHoleArea(n, m, hBars, vBars));
     }
 }

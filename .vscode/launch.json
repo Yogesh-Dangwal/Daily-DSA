@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximizeAreaOfSquareHoleInGrid",
+            "request": "launch",
+            "mainClass": "Array.MaximizeAreaofSquareHoleInGrid.MaximizeAreaOfSquareHoleInGrid",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LargestSquareInsideTwoRectangles",
             "request": "launch",
             "mainClass": "Array.LargestSquareinsideTwoRectangles.LargestSquareInsideTwoRectangles",
