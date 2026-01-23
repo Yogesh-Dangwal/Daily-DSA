@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "Array.MajorityElement.MajorityElement",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumPairRemovalToSortArray",
             "request": "launch",
             "mainClass": "Array.MinimumPairRemovalToSortArrayII.MinimumPairRemovalToSortArray",
