@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindAllDuplicatesInArray",
+            "request": "launch",
+            "mainClass": "Array.FindAllDuplicatesInArray.FindAllDuplicatesInArray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimizeMaximumPairSum",
             "request": "launch",
             "mainClass": "Array.MinimizeMaximumPairSum.MinimizeMaximumPairSum",
