@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumPrefixRemoval",
+            "request": "launch",
+            "mainClass": "Array.MinimumPrefixRemoval.MinimumPrefixRemoval",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumDifferenceKScores",
             "request": "launch",
             "mainClass": "Array.MinimumDifferenceKScores.MinimumDifferenceKScores",
