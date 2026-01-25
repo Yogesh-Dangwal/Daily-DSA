@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumDifferenceKScores",
+            "request": "launch",
+            "mainClass": "Array.MinimumDifferenceKScores.MinimumDifferenceKScores",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FindAllDuplicatesInArray",
             "request": "launch",
             "mainClass": "Array.FindAllDuplicatesInArray.FindAllDuplicatesInArray",
