@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumCostPathWithEdgeReversals",
+            "request": "launch",
+            "mainClass": "Graph.MinimumCostPathWithEdgeReversals.MinimumCostPathWithEdgeReversals",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BestTimeToBuyAndSellStock",
             "request": "launch",
             "mainClass": "Array.BestTimeToBuyAndSellStock.BestTimeToBuyAndSellStock",
