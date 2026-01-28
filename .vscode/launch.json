@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumNumberOfWordsInSentences",
+            "request": "launch",
+            "mainClass": "Array.MaximumNumberOfWordsInSentences.MaximumNumberOfWordsInSentences",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumCostPathWithTeleportations",
             "request": "launch",
             "mainClass": "Array.MinimumCostPathWithTeleportations.MinimumCostPathWithTeleportations",
