@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumCostPathWithTeleportations",
+            "request": "launch",
+            "mainClass": "Array.MinimumCostPathWithTeleportations.MinimumCostPathWithTeleportations",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumCostPathWithEdgeReversals",
             "request": "launch",
             "mainClass": "Graph.MinimumCostPathWithEdgeReversals.MinimumCostPathWithEdgeReversals",
