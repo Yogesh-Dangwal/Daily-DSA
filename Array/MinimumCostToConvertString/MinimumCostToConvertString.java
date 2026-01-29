@@ -1,7 +1,13 @@
 package Array.MinimumCostToConvertString;
 public class MinimumCostToConvertString {
 
-    public static long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
+    public static long minimumCost(
+        String source,
+        String target,
+        char[] original,
+        char[] changed,
+        int[] cost
+    ) {
         int INF = (int)1e9;
         int[][] dist = new int[26][26];
 
@@ -26,29 +32,28 @@ public class MinimumCostToConvertString {
                 }
             }
         }
-        if (source.length() != target.length()) {
-            return -1;
-        }
-        long totalCost = 0;
 
+        long ans = 0;
         for (int i = 0; i < source.length(); i++) {
-            int u = source.charAt(i) - 'a';
-            int v = target.charAt(i) - 'a';
-            if (dist[u][v] == INF) {
-                return -1;
-            }
-            totalCost += dist[u][v];
-        }
-        return totalCost;
-    }
-    public static void main(String[] args) {
-        String source = "abc";
-        String target = "bcd";
-        char[] original = {'a', 'b', 'c', 'a'};
-        char[] changed = {'b', 'c', 'd', 'c'};
-        int[] cost = {1, 1, 1, 2};
+            int s = source.charAt(i) - 'a';
+            int t = target.charAt(i) - 'a';
 
-        long result = minimumCost(source, target, original, changed, cost);
-        System.out.println("Minimum Cost to Convert String: " + result);
+            if (s == t) continue;
+            if (dist[s][t] == INF) return -1;
+
+            ans += dist[s][t];
+        }
+
+        return ans;
+    }
+
+    public static void main(String[] args) {
+        String source = "abcd";
+        String target = "acbe";
+        char[] original = {'a','b','c','c','e','d'};
+        char[] changed = {'b','c','b','e','b','e'};
+        int[] cost = {2,5,5,1,2,20};
+
+        System.out.println(minimumCost(source, target, original, changed, cost));
     }
 }
