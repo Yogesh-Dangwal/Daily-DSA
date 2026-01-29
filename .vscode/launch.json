@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumCostToConvertString",
+            "request": "launch",
+            "mainClass": "Array.MinimumCostToConvertString.MinimumCostToConvertString",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximumSubarray",
             "request": "launch",
             "mainClass": "Array.MaximumSubarray.MaximumSubarray",
