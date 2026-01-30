@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumCostToConvertStringII",
+            "request": "launch",
+            "mainClass": "Array.MinimumCostToConvertStringII.MinimumCostToConvertStringII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumCostToConvertString",
             "request": "launch",
             "mainClass": "Array.MinimumCostToConvertString.MinimumCostToConvertString",
