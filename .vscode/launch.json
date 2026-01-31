@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindSmallestLetterGreaterThanTarget",
+            "request": "launch",
+            "mainClass": "FindSmallestLetterGreaterThanTarget",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumCostToConvertStringII",
             "request": "launch",
             "mainClass": "Array.MinimumCostToConvertStringII.MinimumCostToConvertStringII",
