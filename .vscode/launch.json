@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DivideArrayIntoSubarraysWithMinimumCostI",
+            "request": "launch",
+            "mainClass": "Array.DivideArrayIntoSubarraysWithMinimumCostI.DivideArrayIntoSubarraysWithMinimumCostI",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FindSmallestLetterGreaterThanTarget",
             "request": "launch",
             "mainClass": "FindSmallestLetterGreaterThanTarget",
