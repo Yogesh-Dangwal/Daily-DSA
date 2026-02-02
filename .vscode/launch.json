@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortedSquares",
+            "request": "launch",
+            "mainClass": "Array.SortedSquares.SortedSquares",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MyStackUsingQueues",
             "request": "launch",
             "mainClass": "Stack.MyStackUsingQueues.MyStackUsingQueues",
