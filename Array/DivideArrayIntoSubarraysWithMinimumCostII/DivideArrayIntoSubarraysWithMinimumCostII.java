@@ -4,8 +4,6 @@ import java.util.*;
 public class DivideArrayIntoSubarraysWithMinimumCostII {
 
     public static long minimumCost(int[] nums, int k, int dist) {
-
-        int n = nums.length;
         long result = Long.MAX_VALUE;
         long windowSum = 0L;
 
