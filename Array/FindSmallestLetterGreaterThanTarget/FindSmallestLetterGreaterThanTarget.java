@@ -1,4 +1,5 @@
-public class FindSmallestLetterGreaterThanTarget {
+package Array.FindSmallestLetterGreaterthanTarget;
+public class FindSmallestLetterGreaterthanTarget {
 
     public static char nextGreatestLetter(char[] letters, char target) {
         int left = 0, right = letters.length - 1;

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindSmallestLetterGreaterthanTarget",
+            "request": "launch",
+            "mainClass": "Array.FindSmallestLetterGreaterthanTarget.FindSmallestLetterGreaterthanTarget",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "FindSmallestLetterGreaterThanTarget",
+            "request": "launch",
+            "mainClass": "Array.FindSmallestLetterGreaterthanTarget.FindSmallestLetterGreaterThanTarget",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "DivideArrayIntoSubarraysWithMinimumCostII",
+            "request": "launch",
+            "mainClass": "Array.DivideArrayIntoSubarraysWithMinimumCostII.DivideArrayIntoSubarraysWithMinimumCostII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "DivideArrayIntoSubarraysWithMinimumCostI",
             "request": "launch",
             "mainClass": "Array.DivideArrayIntoSubarraysWithMinimumCostI.DivideArrayIntoSubarraysWithMinimumCostI",
