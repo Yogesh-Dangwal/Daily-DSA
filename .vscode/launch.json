@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTreePostorderTraversal",
+            "request": "launch",
+            "mainClass": "Stack.BinaryTreePostorderTraversal.BinaryTreePostorderTraversal",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FindSmallestLetterGreaterthanTarget",
             "request": "launch",
             "mainClass": "Array.FindSmallestLetterGreaterthanTarget.FindSmallestLetterGreaterthanTarget",
