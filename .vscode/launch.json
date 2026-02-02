@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyStackUsingQueues",
+            "request": "launch",
+            "mainClass": "Stack.MyStackUsingQueues.MyStackUsingQueues",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BinaryTreePostorderTraversal",
             "request": "launch",
             "mainClass": "Stack.BinaryTreePostorderTraversal.BinaryTreePostorderTraversal",
