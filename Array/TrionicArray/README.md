@@ -1,5 +1,7 @@
 # Trionic Array I
 
+---
+
 ## 📝 Problem
 An array is trionic if it contains:
 1. A strictly increasing segment
@@ -27,19 +29,3 @@ Each phase must have at least one valid step.
 ---
 
 ## 🧑‍💻 Java Code
-
-```java
-public static boolean isTrionic(int[] nums) {
-    int i = 0, n = nums.length;
-
-    while (i + 1 < n && nums[i] < nums[i + 1]) i++;
-    if (i == 0) return false;
-
-    int p = i;
-    while (i + 1 < n && nums[i] > nums[i + 1]) i++;
-    if (i == p) return false;
-
-    while (i + 1 < n && nums[i] < nums[i + 1]) i++;
-
-    return i == n - 1;
-}
