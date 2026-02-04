@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxSumTrionicSubarray",
+            "request": "launch",
+            "mainClass": "TrionicArrayII.MaxSumTrionicSubarray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "TrionicArray",
             "request": "launch",
             "mainClass": "Array.TrionicArray.TrionicArray",
