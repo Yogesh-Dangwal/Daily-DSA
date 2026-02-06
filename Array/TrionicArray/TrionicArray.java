@@ -1,4 +1,4 @@
-package Array.TrionicArray;
+package TrionicArray;
 public class TrionicArray {
 
     public static boolean isTrionic(int[] nums) {
