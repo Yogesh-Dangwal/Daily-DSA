@@ -1,4 +1,4 @@
-package Array.ConstructMinimumBitwiseArray;
+package ConstructMinimumBitwiseArray;
 import java.util.*;
 
 public class ConstructMinimumBitwiseArray {

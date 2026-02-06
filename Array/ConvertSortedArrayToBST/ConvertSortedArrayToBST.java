@@ -1,4 +1,4 @@
-package Array.ConvertSortedArrayToBST;
+package ConvertSortedArrayToBST;
 public class ConvertSortedArrayToBST {
 
     static class TreeNode {
