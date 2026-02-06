@@ -1,4 +1,4 @@
-package Array.NRepeatedElementInSize2NArray;
+package NRepeatedElementInSize2NArray;
 public class NRepeatedElementInSize2NArray {
 
     public static int repeatedNTimes(int[] nums) {
