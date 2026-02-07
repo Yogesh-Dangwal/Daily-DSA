@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumDeletionsBalancedString",
+            "request": "launch",
+            "mainClass": "MinimumDeletionsBalancedString.MinimumDeletionsBalancedString",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumRemovalsToBalanceArray",
             "request": "launch",
             "mainClass": "MinimumRemovalsToBalanceArray",
