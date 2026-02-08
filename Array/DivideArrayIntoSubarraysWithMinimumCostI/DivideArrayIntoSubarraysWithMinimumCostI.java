@@ -1,4 +1,4 @@
-package Array.DivideArrayIntoSubarraysWithMinimumCostI;
+package DivideArrayIntoSubarraysWithMinimumCostI;
 public class DivideArrayIntoSubarraysWithMinimumCostI {
 
     public static int minimumCost(int[] nums) {
