@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalancedBinaryTree",
+            "request": "launch",
+            "mainClass": "BalancedBinaryTree",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumDeletionsBalancedString",
             "request": "launch",
             "mainClass": "MinimumDeletionsBalancedString.MinimumDeletionsBalancedString",
