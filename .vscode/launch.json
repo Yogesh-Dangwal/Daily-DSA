@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalanceBST",
+            "request": "launch",
+            "mainClass": "BalanceBST",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BalancedBinaryTree",
             "request": "launch",
             "mainClass": "BalancedBinaryTree",
