@@ -1,4 +1,4 @@
-package Array.DivideArrayIntoSubarraysWithMinimumCostII;
+package DivideArrayIntoSubarraysWithMinimumCostII;
 import java.util.*;
 
 public class DivideArrayIntoSubarraysWithMinimumCostII {
