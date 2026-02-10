@@ -1,4 +1,4 @@
-package Array.FindAllDuplicatesInArray;
+package FindAllDuplicatesInArray;
 import java.util.*;
 
 public class FindAllDuplicatesInArray {
