@@ -1,4 +1,4 @@
-package Array.LargestMagicSquareBasic;
+package LargestMagicSquareBasic;
 public class LargestMagicSquareBasic {
 
     public static int largestMagicSquare(int[][] grid) {
