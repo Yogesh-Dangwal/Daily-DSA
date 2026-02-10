@@ -1,4 +1,4 @@
-package Array.FindSmallestLetterGreaterthanTarget;
+package FindSmallestLetterGreaterthanTarget;
 public class FindSmallestLetterGreaterthanTarget {
 
     public static char nextGreatestLetter(char[] letters, char target) {
