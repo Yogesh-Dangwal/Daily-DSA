@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestBalancedSubarrayII",
+            "request": "launch",
+            "mainClass": "LongestBalancedSubarrayII.LongestBalancedSubarrayII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BalanceBST",
             "request": "launch",
             "mainClass": "BalanceBST",
