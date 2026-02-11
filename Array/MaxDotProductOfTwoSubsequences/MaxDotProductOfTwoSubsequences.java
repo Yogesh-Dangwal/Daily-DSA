@@ -1,4 +1,4 @@
-package Array.MaxDotProductOfTwoSubsequences;
+package MaxDotProductOfTwoSubsequences;
 public class MaxDotProductOfTwoSubsequences {
 
     public static int maxDotProduct(int[] nums1, int[] nums2) {
