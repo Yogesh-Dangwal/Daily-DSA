@@ -4,17 +4,17 @@ import java.util.*;
 public class MinimumCostPathWithEdgeReversals {
 
     public static int minCost(int n, int[][] edges) {
-        List<int[]>[] graph = new ArrayList[n];
-        List<int[]>[] reverseGraph = new ArrayList[n];
+        List<List<int[]>> graph = new ArrayList<>();
+        List<List<int[]>> reverseGraph = new ArrayList<>();
 
         for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
-            reverseGraph[i] = new ArrayList<>();
+            graph.add(new ArrayList<>());
+            reverseGraph.add(new ArrayList<>());
         }
 
         for (int[] e : edges) {
-            graph[e[0]].add(new int[]{e[1], e[2]});
-            reverseGraph[e[1]].add(new int[]{e[0], e[2]});
+            graph.get(e[0]).add(new int[]{e[1], e[2]});
+            reverseGraph.get(e[1]).add(new int[]{e[0], e[2]});
         }
 
         long[][] dist = new long[n][2];
@@ -32,7 +32,7 @@ public class MinimumCostPathWithEdgeReversals {
 
             if (cost > dist[u][state]) continue;
 
-            for (int[] next : graph[u]) {
+            for (int[] next : graph.get(u)) {
                 int v = next[0];
                 int w = next[1];
                 if (dist[v][state] > cost + w) {
@@ -42,7 +42,7 @@ public class MinimumCostPathWithEdgeReversals {
             }
 
             if (state == 0) {
-                for (int[] prev : reverseGraph[u]) {
+                for (int[] prev : reverseGraph.get(u)) {
                     int v = prev[0];
                     int w = prev[1];
                     if (dist[v][1] > cost + 2L * w) {

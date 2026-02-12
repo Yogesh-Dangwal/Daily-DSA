@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindTownJudge",
+            "request": "launch",
+            "mainClass": "Graph.FindTownJudge.FindTownJudge",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LongestBalancedSubarrayII",
             "request": "launch",
             "mainClass": "LongestBalancedSubarrayII.LongestBalancedSubarrayII",
