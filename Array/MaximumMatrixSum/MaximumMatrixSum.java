@@ -1,4 +1,4 @@
-package Array.MaximumMatrixsum;
+package MaximumMatrixsum;
 public class MaximumMatrixSum {
 
     public static long maxMatrixSum(int[][] matrix) {

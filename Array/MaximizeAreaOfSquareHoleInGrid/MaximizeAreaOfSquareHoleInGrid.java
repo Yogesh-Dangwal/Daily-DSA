@@ -1,4 +1,4 @@
-package Array.MaximizeAreaofSquareHoleInGrid;
+package MaximizeAreaofSquareHoleInGrid;
 import java.util.*;
 public class MaximizeAreaOfSquareHoleInGrid {
 

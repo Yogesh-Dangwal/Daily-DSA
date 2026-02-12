@@ -1,4 +1,4 @@
-package Array.MaximumNumberOfWordsInSentences;
+package MaximumNumberOfWordsInSentences;
 public class MaximumNumberOfWordsInSentences {
 
     public static int mostWordsFound(String[] sentences) {
