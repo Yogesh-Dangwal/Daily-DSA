@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestBalancedSubstringII",
+            "request": "launch",
+            "mainClass": "String.LongestBalancedSubstringII.LongestBalancedSubstringII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximizeAreaOfSquareHoleInGrid",
             "request": "launch",
             "mainClass": "MaximizeAreaofSquareHoleInGrid.MaximizeAreaOfSquareHoleInGrid",
