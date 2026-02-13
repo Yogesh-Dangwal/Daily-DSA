@@ -1,4 +1,4 @@
-package Array.MaximumSquareAreaByRemovingFences;
+package MaximumSquareAreaByRemovingFences;
 import java.util.*;
 
 public class MaximumSquareAreaByRemovingFences {

@@ -1,4 +1,4 @@
-package Array.MaximumSideLengthSquare;
+package MaximumSideLengthSquare;
 public class MaximumSideLengthSquare {
 
     public static int maxSideLength(int[][] mat, int threshold) {
