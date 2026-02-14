@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChampagneTower",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.ChampagneTower.ChampagneTower",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "SubstringWithConcatenation",
+            "request": "launch",
+            "mainClass": "String.SubstringWithConcatenation.SubstringWithConcatenation",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LongestBalancedSubstringII",
             "request": "launch",
             "mainClass": "String.LongestBalancedSubstringII.LongestBalancedSubstringII",
