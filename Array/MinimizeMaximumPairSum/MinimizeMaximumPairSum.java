@@ -1,4 +1,4 @@
-package Array.MinimizeMaximumPairSum;
+package MinimizeMaximumPairSum;
 import java.util.*;
 
 public class MinimizeMaximumPairSum {

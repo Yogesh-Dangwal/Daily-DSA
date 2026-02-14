@@ -1,4 +1,4 @@
-package Array.MaximumSubarray;
+package MaximumSubarray;
 public class MaximumSubarray { //Kadanes Algorithm
 
     public static int maxSubArray(int[] nums) {
