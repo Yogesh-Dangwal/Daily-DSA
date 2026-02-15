@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordPattern",
+            "request": "launch",
+            "mainClass": "String.WordPattern.WordPattern",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FindFirstOccurrence",
             "request": "launch",
             "mainClass": "String.FindFirstOccurrence.FindFirstOccurrence",
