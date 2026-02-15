@@ -1,4 +1,4 @@
-package Array.MinimumAbsoluteDifference;
+package MinimumAbsoluteDifference;
 import java.util.*;
 
 public class MinimumAbsoluteDifference {

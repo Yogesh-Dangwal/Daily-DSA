@@ -1,4 +1,4 @@
-package Array.MinimumCostToConvertString;
+package MinimumCostToConvertString;
 public class MinimumCostToConvertString {
 
     public static long minimumCost(

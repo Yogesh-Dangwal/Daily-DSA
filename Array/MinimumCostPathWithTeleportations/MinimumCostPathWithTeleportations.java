@@ -1,4 +1,4 @@
-package Array.MinimumCostPathWithTeleportations;
+package MinimumCostPathWithTeleportations;
 import java.util.*;
 
 public class MinimumCostPathWithTeleportations {

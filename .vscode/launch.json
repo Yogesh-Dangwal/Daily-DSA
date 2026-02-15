@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimizeMaximumPairSum",
+            "request": "launch",
+            "mainClass": "MinimizeMaximumPairSum.MinimizeMaximumPairSum",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ChampagneTower",
             "request": "launch",
             "mainClass": "DynamicProgramming.ChampagneTower.ChampagneTower",
