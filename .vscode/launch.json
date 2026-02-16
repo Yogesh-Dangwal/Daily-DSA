@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseBits",
+            "request": "launch",
+            "mainClass": "ReverseBits",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "WordPattern",
             "request": "launch",
             "mainClass": "String.WordPattern.WordPattern",

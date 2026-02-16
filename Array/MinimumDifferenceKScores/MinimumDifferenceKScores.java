@@ -1,4 +1,4 @@
-package Array.MinimumDifferenceKScores;
+package MinimumDifferenceKScores;
 import java.util.*;
 
 public class MinimumDifferenceKScores {

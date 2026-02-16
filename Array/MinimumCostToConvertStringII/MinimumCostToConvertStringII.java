@@ -1,4 +1,4 @@
-package Array.MinimumCostToConvertStringII;
+package MinimumCostToConvertStringII;
 import java.util.*;
 
 public class MinimumCostToConvertStringII {

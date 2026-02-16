@@ -1,4 +1,4 @@
-package Array.MinimumPairRemovalToSortArrayI;
+package MinimumPairRemovalToSortArrayI;
 public class MinimumPairRemovalToSortArrayI {
 
     public static int minimumPairRemoval(int[] nums) {
