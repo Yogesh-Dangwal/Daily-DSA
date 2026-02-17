@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryWatch",
+            "request": "launch",
+            "mainClass": "Backtracking.BinaryWatch.BinaryWatch",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumTimeVisitingAllPoints",
             "request": "launch",
             "mainClass": "MinimumTimeVisitingAllPoints.MinimumTimeVisitingAllPoints",
