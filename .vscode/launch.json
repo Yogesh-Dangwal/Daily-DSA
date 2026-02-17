@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GenerateParentheses",
+            "request": "launch",
+            "mainClass": "Backtracking.GenerateParentheses.GenerateParentheses",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BinaryWatch",
             "request": "launch",
             "mainClass": "Backtracking.BinaryWatch.BinaryWatch",
