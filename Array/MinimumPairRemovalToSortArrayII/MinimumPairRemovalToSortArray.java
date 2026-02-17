@@ -1,4 +1,4 @@
-package Array.MinimumPairRemovalToSortArrayII;
+package MinimumPairRemovalToSortArrayII;
 import java.util.PriorityQueue;
 public class MinimumPairRemovalToSortArray {
 

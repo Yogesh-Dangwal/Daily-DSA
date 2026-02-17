@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumTimeVisitingAllPoints",
+            "request": "launch",
+            "mainClass": "MinimumTimeVisitingAllPoints.MinimumTimeVisitingAllPoints",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "MinimumPrefixRemoval",
+            "request": "launch",
+            "mainClass": "MinimumPrefixRemoval.MinimumPrefixRemoval",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "MinimumPairRemovalToSortArray",
+            "request": "launch",
+            "mainClass": "MinimumPairRemovalToSortArrayII.MinimumPairRemovalToSortArray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "MinimumCostToConvertStringII",
+            "request": "launch",
+            "mainClass": "MinimumCostToConvertStringII.MinimumCostToConvertStringII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ReverseBits",
             "request": "launch",
             "mainClass": "ReverseBits",

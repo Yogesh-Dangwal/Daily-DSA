@@ -1,4 +1,4 @@
-package Array.MinimumPrefixRemoval;
+package MinimumPrefixRemoval;
 public class MinimumPrefixRemoval {
 
     public static int minimumPrefixRemoval(int[] nums) {

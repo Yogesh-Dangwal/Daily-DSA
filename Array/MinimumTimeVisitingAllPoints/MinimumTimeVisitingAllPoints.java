@@ -1,4 +1,4 @@
-package Array.MinimumTimeVisitingAllPoints;
+package MinimumTimeVisitingAllPoints;
 public class MinimumTimeVisitingAllPoints {
 
     public static int minTimeToVisitAllPoints(int[][] points) {
