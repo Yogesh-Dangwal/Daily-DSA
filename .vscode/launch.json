@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NRepeatedElementInSize2NArray",
+            "request": "launch",
+            "mainClass": "NRepeatedElementInSize2NArray.NRepeatedElementInSize2NArray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "GenerateParentheses",
             "request": "launch",
             "mainClass": "Backtracking.GenerateParentheses.GenerateParentheses",

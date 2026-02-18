@@ -1,4 +1,4 @@
-package Array.SeparateSquares;
+package SeparateSquares;
 public class SeparateSquares {
 
     public static double separateSquares(int[][] squares) {

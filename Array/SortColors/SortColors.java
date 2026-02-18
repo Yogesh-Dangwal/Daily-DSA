@@ -1,4 +1,4 @@
-package Array.SortColors;
+package SortColors;
 import java.util.*;
 
 public class SortColors {

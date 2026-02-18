@@ -1,4 +1,4 @@
-package Array.PlusOneProblem;
+package PlusOneProblem;
 public class PlusOne {
 
     public int[] plusOne(int[] digits) {

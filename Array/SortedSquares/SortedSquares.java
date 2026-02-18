@@ -1,4 +1,4 @@
-package Array.SortedSquares;
+package SortedSquares;
 import java.util.*;
 
 public class SortedSquares {

@@ -1,4 +1,4 @@
-package Array.SeparateSquaresII;
+package SeparateSquaresII;
 import java.util.*;
 
 public class SeparateSquaresII {
