@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "BitManipulation.PowerOfTwo.PowerOfTwo",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "AlternatingBits",
             "request": "launch",
             "mainClass": "BitManipulation.AlternatingBits.AlternatingBits",
