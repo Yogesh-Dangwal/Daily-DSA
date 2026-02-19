@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleNumberII",
+            "request": "launch",
+            "mainClass": "BitManipulation.SingleNumberII.SingleNumberII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "CountBinarySubstrings",
             "request": "launch",
             "mainClass": "String.CountBinarySubstrings.CountBinarySubstrings",
