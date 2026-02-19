@@ -1,6 +1,6 @@
 import java.util.*;
 
-class TreeNode {
+final class TreeNode {
     int val;
     TreeNode left, right;
     TreeNode(int val) { this.val = val; }
