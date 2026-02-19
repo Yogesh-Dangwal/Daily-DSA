@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountBinarySubstrings",
+            "request": "launch",
+            "mainClass": "String.CountBinarySubstrings.CountBinarySubstrings",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "PowerOfTwo",
             "request": "launch",
             "mainClass": "BitManipulation.PowerOfTwo.PowerOfTwo",
