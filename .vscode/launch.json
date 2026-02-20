@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SpecialBinaryString",
+            "request": "launch",
+            "mainClass": "SpecialBinaryString",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SingleNumberII",
             "request": "launch",
             "mainClass": "BitManipulation.SingleNumberII.SingleNumberII",
