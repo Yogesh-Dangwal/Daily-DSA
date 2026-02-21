@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeSetBits",
+            "request": "launch",
+            "mainClass": "BitManipulation.PrimeSetBits.PrimeSetBits",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SpecialBinaryString",
             "request": "launch",
             "mainClass": "SpecialBinaryString",
