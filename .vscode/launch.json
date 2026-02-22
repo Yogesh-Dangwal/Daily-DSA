@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubsetsII",
+            "request": "launch",
+            "mainClass": "Backtracking.SubsetsII.SubsetsII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BinaryGap",
             "request": "launch",
             "mainClass": "BitManipulation.BinaryGap.BinaryGap",
