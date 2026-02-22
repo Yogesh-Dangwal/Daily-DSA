@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryGap",
+            "request": "launch",
+            "mainClass": "BitManipulation.BinaryGap.BinaryGap",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "PrimeSetBits",
             "request": "launch",
             "mainClass": "BitManipulation.PrimeSetBits.PrimeSetBits",
