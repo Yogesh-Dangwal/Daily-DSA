@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AllBinaryCodes",
+            "request": "launch",
+            "mainClass": "AllBinaryCodes",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SubsetsII",
             "request": "launch",
             "mainClass": "Backtracking.SubsetsII.SubsetsII",
