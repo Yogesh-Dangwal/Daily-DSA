@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EditDistance",
+            "request": "launch",
+            "mainClass": "String.EditDistance.EditDistance",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SortByBits",
             "request": "launch",
             "mainClass": "SortByBits",
