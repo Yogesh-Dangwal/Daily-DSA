@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GroupAnagrams",
+            "request": "launch",
+            "mainClass": "Sorting.GroupAnagrams.GroupAnagrams",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BinaryStepsToOne",
             "request": "launch",
             "mainClass": "BinaryStepsToOne",
