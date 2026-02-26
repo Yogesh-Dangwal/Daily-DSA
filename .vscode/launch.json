@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryStepsToOne",
+            "request": "launch",
+            "mainClass": "BinaryStepsToOne",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "EditDistance",
             "request": "launch",
             "mainClass": "String.EditDistance.EditDistance",
