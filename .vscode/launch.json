@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConcatenatedBinary",
+            "request": "launch",
+            "mainClass": "BitManipulation.ConcatenatedBinary.ConcatenatedBinary",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumOperations",
             "request": "launch",
             "mainClass": "MinimumOperations",
