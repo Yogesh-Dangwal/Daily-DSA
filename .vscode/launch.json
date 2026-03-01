@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinPartitions",
+            "request": "launch",
+            "mainClass": "MinPartitions",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SetMatrixZeroes",
             "request": "launch",
             "mainClass": "HashTable.SetMatrixZeroes.SetMatrixZeroes",
