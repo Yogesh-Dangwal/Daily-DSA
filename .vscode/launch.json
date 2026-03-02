@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinSwapsBinaryGrid",
+            "request": "launch",
+            "mainClass": "MinSwapsBinaryGrid",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinPartitions",
             "request": "launch",
             "mainClass": "MinPartitions",
