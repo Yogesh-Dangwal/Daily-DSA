@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuildTreePreIn",
+            "request": "launch",
+            "mainClass": "HashTable.BuildTreePreIn.BuildTreePreIn",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinSwapsBinaryGrid",
             "request": "launch",
             "mainClass": "MinSwapsBinaryGrid",
