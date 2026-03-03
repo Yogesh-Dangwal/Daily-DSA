@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindKthBit",
+            "request": "launch",
+            "mainClass": "FindKthBit",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BuildTreePreIn",
             "request": "launch",
             "mainClass": "HashTable.BuildTreePreIn.BuildTreePreIn",
