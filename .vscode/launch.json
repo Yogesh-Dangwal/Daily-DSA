@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthLargestElement",
+            "request": "launch",
+            "mainClass": "Sorting.KthLargestElement.KthLargestElement",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "SpecialPositionsBinaryMatrix",
             "request": "launch",
             "mainClass": "SpecialPositionsBinaryMatrix.SpecialPositionsBinaryMatrix",
