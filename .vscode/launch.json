@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumAlternatingChanges",
+            "request": "launch",
+            "mainClass": "String.MinimumAlternatingChanges.MinimumAlternatingChanges",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "KthLargestElement",
             "request": "launch",
             "mainClass": "Sorting.KthLargestElement.KthLargestElement",
