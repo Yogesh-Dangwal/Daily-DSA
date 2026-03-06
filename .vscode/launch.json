@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExclusiveTime",
+            "request": "launch",
+            "mainClass": "Stack.ExclusiveTime.ExclusiveTime",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "CheckOnesSegment",
             "request": "launch",
             "mainClass": "CheckOnesSegment",
