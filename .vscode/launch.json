@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckOnesSegment",
+            "request": "launch",
+            "mainClass": "CheckOnesSegment",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumAlternatingChanges",
             "request": "launch",
             "mainClass": "String.MinimumAlternatingChanges.MinimumAlternatingChanges",
