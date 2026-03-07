@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinFlipsAlternating",
+            "request": "launch",
+            "mainClass": "MinFlipsAlternating",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ExclusiveTime",
             "request": "launch",
             "mainClass": "Stack.ExclusiveTime.ExclusiveTime",
