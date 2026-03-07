@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DailyTemperatures",
+            "request": "launch",
+            "mainClass": "Stack.DailyTemperatures.DailyTemperatures",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinFlipsAlternating",
             "request": "launch",
             "mainClass": "MinFlipsAlternating",
