@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StableBinaryArraysII",
+            "request": "launch",
+            "mainClass": "StableBinaryArraysII",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "CountStudentsSandwich",
             "request": "launch",
             "mainClass": "Queue.CountStudentsSandwich.CountStudentsSandwich",
