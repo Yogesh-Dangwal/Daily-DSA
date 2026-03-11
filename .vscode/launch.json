@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BitwiseComplement",
+            "request": "launch",
+            "mainClass": "BitManipulation.BitwiseComplement.BitwiseComplement",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "StableBinaryArraysII",
             "request": "launch",
             "mainClass": "StableBinaryArraysII",
