@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class MinFlipsAlternating {
 
     public static int minFlips(String s) {
