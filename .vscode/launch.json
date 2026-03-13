@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumSecondsMountain",
+            "request": "launch",
+            "mainClass": "MinimumSecondsMountain.MinimumSecondsMountain",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BitwiseComplement",
             "request": "launch",
             "mainClass": "BitManipulation.BitwiseComplement.BitwiseComplement",
