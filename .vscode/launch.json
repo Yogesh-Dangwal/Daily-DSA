@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructTargetArrayWithMultipleSums",
+            "request": "launch",
+            "mainClass": "Heap.ConstructTargetArrayWithMultipleSums.ConstructTargetArrayWithMultipleSums",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumSecondsMountain",
             "request": "launch",
             "mainClass": "MinimumSecondsMountain.MinimumSecondsMountain",
