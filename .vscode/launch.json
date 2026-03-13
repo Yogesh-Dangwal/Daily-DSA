@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindKPairsWithSmallestSums",
+            "request": "launch",
+            "mainClass": "Heap.FindKPairsWithSmallestSums.FindKPairsWithSmallestSums",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ConstructTargetArrayWithMultipleSums",
             "request": "launch",
             "mainClass": "Heap.ConstructTargetArrayWithMultipleSums.ConstructTargetArrayWithMultipleSums",
