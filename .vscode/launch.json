@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthHappyString",
+            "request": "launch",
+            "mainClass": "Backtracking.KthHappyString.KthHappyString",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FindKPairsWithSmallestSums",
             "request": "launch",
             "mainClass": "Heap.FindKPairsWithSmallestSums.FindKPairsWithSmallestSums",
