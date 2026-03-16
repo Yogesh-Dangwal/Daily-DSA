@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveEvenNodes",
+            "request": "launch",
+            "mainClass": "LinkedList.RemoveEvenNodes.RemoveEvenNodes",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "KthHappyString",
             "request": "launch",
             "mainClass": "Backtracking.KthHappyString.KthHappyString",
