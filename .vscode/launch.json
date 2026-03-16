@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RhombusSums",
+            "request": "launch",
+            "mainClass": "RhombusSums.RhombusSums",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MaximumSumOfNonAdjacentNodes",
             "request": "launch",
             "mainClass": "BinaryTree.MaximumSumOfNonAdjacentNodes.MaximumSumOfNonAdjacentNodes",
