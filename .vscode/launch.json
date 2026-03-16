@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumSumOfNonAdjacentNodes",
+            "request": "launch",
+            "mainClass": "BinaryTree.MaximumSumOfNonAdjacentNodes.MaximumSumOfNonAdjacentNodes",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ReplaceOnesWithCount",
             "request": "launch",
             "mainClass": "LinkedList.ReplaceOnesWithCount.ReplaceOnesWithCount",
