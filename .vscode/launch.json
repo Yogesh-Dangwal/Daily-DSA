@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LargestSubmatrix",
+            "request": "launch",
+            "mainClass": "Array.LargestSubmatrix.LargestSubmatrix",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "RhombusSums",
             "request": "launch",
             "mainClass": "RhombusSums.RhombusSums",
