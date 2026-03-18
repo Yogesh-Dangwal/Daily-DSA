@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList.ReverseLinkedList.ReverseLinkedList",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "CountSubmatrices",
             "request": "launch",
             "mainClass": "CountSubmatrices.CountSubmatrices",
