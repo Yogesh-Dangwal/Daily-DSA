@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountSubmatrices",
+            "request": "launch",
+            "mainClass": "CountSubmatrices.CountSubmatrices",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "LargestSubmatrix",
             "request": "launch",
             "mainClass": "Array.LargestSubmatrix.LargestSubmatrix",
