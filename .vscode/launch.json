@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountEqualXYSubmatrices",
+            "request": "launch",
+            "mainClass": "Array.CountEqualXYSubmatrices.CountEqualXYSubmatrices",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ReverseLinkedList",
             "request": "launch",
             "mainClass": "LinkedList.ReverseLinkedList.ReverseLinkedList",
