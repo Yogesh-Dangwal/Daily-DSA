@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumAbsoluteDifferenceSlidingSubmatrix",
+            "request": "launch",
+            "mainClass": "MinimumAbsoluteDifferenceSlidingSubmatrix.MinimumAbsoluteDifferenceSlidingSubmatrix",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "CountEqualXYSubmatrices",
             "request": "launch",
             "mainClass": "Array.CountEqualXYSubmatrices.CountEqualXYSubmatrices",
