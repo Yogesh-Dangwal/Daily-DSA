@@ -1,4 +1,4 @@
-package Array.CountEqualXYSubmatrices;
+package CountEqualXYSubmatrices;
 import java.util.*;
 
 public class CountEqualXYSubmatrices {

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReverseSubmatrix",
+            "request": "launch",
+            "mainClass": "ReverseSubmatrix.ReverseSubmatrix",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MinimumAbsoluteDifferenceSlidingSubmatrix",
             "request": "launch",
             "mainClass": "MinimumAbsoluteDifferenceSlidingSubmatrix.MinimumAbsoluteDifferenceSlidingSubmatrix",
