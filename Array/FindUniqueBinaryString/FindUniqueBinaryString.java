@@ -1,4 +1,4 @@
-package Array.FindUniqueBinaryString;
+package FindUniqueBinaryString;
 
 public class FindUniqueBinaryString {
 

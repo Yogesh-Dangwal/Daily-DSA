@@ -1,4 +1,4 @@
-package Array.LargestSubmatrix;
+package LargestSubmatrix;
 import java.util.*;
 
 public class LargestSubmatrix {
