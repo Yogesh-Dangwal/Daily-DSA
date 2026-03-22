@@ -4,8 +4,6 @@ public class MatrixRotationCheck {
 
     public static boolean findRotation(int[][] mat,int[][] target){
 
-        int n=mat.length;
-
         for(int r=0;r<4;r++){
 
             if(check(mat,target))
