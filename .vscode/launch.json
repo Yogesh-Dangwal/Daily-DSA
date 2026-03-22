@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrixRotationCheck",
+            "request": "launch",
+            "mainClass": "Array.MatrixRotationCheck.MatrixRotationCheck",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ReverseSubmatrix",
             "request": "launch",
             "mainClass": "ReverseSubmatrix.ReverseSubmatrix",
