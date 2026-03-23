@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BestTimeToBuyAndSellStock",
+            "request": "launch",
+            "mainClass": "BestTimeToBuyAndSellStock.BestTimeToBuyAndSellStock",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
+            "name": "MaximumNonNegativeProduct",
+            "request": "launch",
+            "mainClass": "MaximumNonNegativeProduct.MaximumNonNegativeProduct",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "ReductionOperations",
             "request": "launch",
             "mainClass": "Sorting.ReductionOperations.ReductionOperations",
