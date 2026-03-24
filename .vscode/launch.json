@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructProductMatrix",
+            "request": "launch",
+            "mainClass": "ConstructProductMatrix.ConstructProductMatrix",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "BestTimeToBuyAndSellStock",
             "request": "launch",
             "mainClass": "BestTimeToBuyAndSellStock.BestTimeToBuyAndSellStock",
