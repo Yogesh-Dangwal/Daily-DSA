@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MergeSortArray",
+            "request": "launch",
+            "mainClass": "MergeSortArray.MergeSortArray",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "EqualSumGridPartition",
             "request": "launch",
             "mainClass": "EqualSumGridPartition.EqualSumGridPartition",
