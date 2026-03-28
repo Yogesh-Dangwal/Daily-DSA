@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindStringFromLCP",
+            "request": "launch",
+            "mainClass": "Array.FindStringFromLCP.FindStringFromLCP",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "MatrixSimilarity",
             "request": "launch",
             "mainClass": "MatrixSimilarity.MatrixSimilarity",
