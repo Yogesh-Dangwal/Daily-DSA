@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuildTreeInorderPostorder",
+            "request": "launch",
+            "mainClass": "BuildTreeInorderPostorder",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "CheckStringEquality",
             "request": "launch",
             "mainClass": "String.CheckStringEquality.CheckStringEquality",
