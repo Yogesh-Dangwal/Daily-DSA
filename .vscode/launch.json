@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckStringEquality",
+            "request": "launch",
+            "mainClass": "String.CheckStringEquality.CheckStringEquality",
+            "projectName": "Daily-DSA_59d2444f"
+        },
+        {
+            "type": "java",
             "name": "FindStringFromLCP",
             "request": "launch",
             "mainClass": "Array.FindStringFromLCP.FindStringFromLCP",
